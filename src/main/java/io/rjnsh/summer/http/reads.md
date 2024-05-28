@@ -1,0 +1,1 @@
+[timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts)

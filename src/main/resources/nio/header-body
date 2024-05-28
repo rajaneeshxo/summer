@@ -1,0 +1,2 @@
+header first 48 bytes
+body of the file is very large and is around 1000 bytes long, but we can only use a byte buffer only when the header and footer are of dynamic sizes
